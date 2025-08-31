@@ -31,4 +31,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/krishnakant2004/leetCode/tree/master/0233-number-of-digit-one) |
+| [3801-count-beautiful-numbers](https://github.com/krishnakant2004/leetCode/tree/master/3801-count-beautiful-numbers) |
 <!---LeetCode Topics End-->
