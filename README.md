@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/krishnakant2004/leetCode/tree/master/0053-maximum-subarray) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/krishnakant2004/leetCode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [3748-sort-matrix-by-diagonals](https://github.com/krishnakant2004/leetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Sorting
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/krishnakant2004/leetCode/tree/master/0053-maximum-subarray) |
 | [0233-number-of-digit-one](https://github.com/krishnakant2004/leetCode/tree/master/0233-number-of-digit-one) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/krishnakant2004/leetCode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [3017-number-of-beautiful-integers-in-the-range](https://github.com/krishnakant2004/leetCode/tree/master/3017-number-of-beautiful-integers-in-the-range) |
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/krishnakant2004/leetCode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/krishnakant2004/leetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
