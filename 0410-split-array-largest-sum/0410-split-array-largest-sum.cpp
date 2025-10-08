@@ -1,33 +1,37 @@
 class Solution {
 public:
     int splitArray(vector<int>& nums, int k) {
-        int low=*max_element(nums.begin(),nums.end());
-        int high=accumulate(nums.begin(),nums.end(),0);
+        int n = nums.size();
+        if(k > n) return -1; 
+        vector<vector<int>> st(n,vector<int>(k+1,0));
+        //prefix sum
+        int sum = 0;
 
-        while(low <= high){
-            int mid=low + (high-low)/2;
-            if(check(nums,mid) <= k){
-                high=mid-1;
-            }else{
-                low=mid+1;
+        for(int i = 0;i<n;i++){
+            sum += nums[i];
+            st[i][1] = sum; 
+        }
+        if(k == 1) return sum;
+
+        for(int i = 2;i<k;i++){
+            for(int j = i-2;j<(n - k + i);j++){
+                int maxVal = INT_MAX;
+                for(int p = i-2;p<j;p++){
+                    int prevK = st[p][i-1];
+                    int currVl = st[j][1] - st[p][1];
+                    maxVal = min(maxVal , max(prevK,currVl));
+
+                }
+                st[j][i] = maxVal;
+                // cout<<"max :"<<maxVal<<endl;
             }
         }
-
-        return low;
-    }
-
-    int check(vector<int>& nums,int mid){
-        int arrSum=0;
-        int count=1;
-        for(int i=0;i<nums.size();i++){
-            if(arrSum+nums[i] <= mid){
-                arrSum+=nums[i];
-            }else{
-                count++;
-                arrSum=nums[i];
-            }
+        int minLargest = INT_MAX;
+        for(int i = k-2;i<n-1;i++){
+            // cout<<"pre: "<<st[i][k-1]<<" curr"<<st[n-1][1] - st[i][1]<<endl;
+            int v = max(st[i][k-1] , st[n-1][1] - st[i][1]);
+            minLargest = min(minLargest , v);
         }
-
-        return count;
+        return minLargest;
     }
 };
