@@ -1,6 +1,8 @@
 class Solution {
 public:
     int splitArray(vector<int>& nums, int k) {
+        return using_binary_division(nums,k);
+        //
         int n = nums.size();
         if(k > n) return -1; 
         vector<vector<int>> st(n,vector<int>(k+1,0));
@@ -34,4 +36,43 @@ public:
         }
         return minLargest;
     }
+
+    int using_binary_division(vector<int>& nums, int k){
+        int l = 0;
+        int r = 0;
+
+        for(int i = 0;i<nums.size();i++){
+            l = max(l , nums[i]);
+            r += nums[i];
+        }
+        int ans = r;
+        while( l <= r){
+            int mid = l + (r-l)/2;
+            
+            if(isfesable(nums,mid,k)){
+                ans = mid;
+                r = mid-1;
+            }else{
+                l = mid+1;
+            }
+        }
+        return ans;
+    }
+
+    bool isfesable(vector<int>& nums,int mid,int k){
+        int part = 1;
+        int n = nums.size();
+
+        int sum = 0;
+        for(int i = 0;i<n;i++){
+            sum += nums[i];
+            if(sum > mid){
+                part++;
+                sum = nums[i];
+                if(part > k) return false;
+            }
+        }
+        return true;
+    }
+
 };
