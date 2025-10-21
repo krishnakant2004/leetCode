@@ -28,26 +28,11 @@ public:
     }
 
     void rotate(string& str,int b){
-        vector<char> st(b);
-        int j = 0;
-        for(int i = str.size()-b;i<str.size();i++){
-            st[j] = str[i];
-            j++;
-        }
-
-        for(int i = str.size()-b-1;i>=0;i--){
-            str[i+b] = str[i];
-        }
-
-        for(int i = 0;i<st.size();i++){
-            str[i] = st[i];
-        }
+        str = str.substr(str.size()-b) + str.substr(0,str.size()-b);
     }
     void add(string& str,int a){
-        for(int i = 0;i<str.size();i++){
-            if(i % 2 != 0){
-                str[i] = (((str[i] - '0') + a) % 10) + '0';
-            }
+        for(int i = 1;i<str.size();i += 2){           
+            str[i] = (((str[i] - '0') + a) % 10) + '0';
         }
     }
 };
