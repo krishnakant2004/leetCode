@@ -18,12 +18,10 @@ public:
         int len = 0;
         int Limit = nums[0] + k;
         for(int i = 0; i<pr.size(); i++){
-            int uLimit = pr[i].first + k;
-            int lLimit = pr[i].first - k;
-            int r = (uLimit > Limit) ? Limit : uLimit;
-            int l = ((r - pr[i].second) >= lLimit-1) ? (r - pr[i].second) : (lLimit-1);
-            Limit = l;
+            int r = min(pr[i].first + k , Limit);
+            int l = max(r - pr[i].second , pr[i].first - k-1);
 
+            Limit = l;
             len += (r - l) > 0 ? (r-l) : 0;
         }
         return len;
