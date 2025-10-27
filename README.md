@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/krishnakant2004/leetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/krishnakant2004/leetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/krishnakant2004/leetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/krishnakant2004/leetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Recursion
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/krishnakant2004/leetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/krishnakant2004/leetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/krishnakant2004/leetCode/tree/master/2169-simple-bank-system) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/krishnakant2004/leetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/krishnakant2004/leetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/krishnakant2004/leetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/krishnakant2004/leetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0174-dungeon-game](https://github.com/krishnakant2004/leetCode/tree/master/0174-dungeon-game) |
 | [0794-swim-in-rising-water](https://github.com/krishnakant2004/leetCode/tree/master/0794-swim-in-rising-water) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/krishnakant2004/leetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3748-sort-matrix-by-diagonals](https://github.com/krishnakant2004/leetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Math
 |  |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/krishnakant2004/leetCode/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/krishnakant2004/leetCode/tree/master/1013-fibonacci-number) |
 | [1642-water-bottles](https://github.com/krishnakant2004/leetCode/tree/master/1642-water-bottles) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/krishnakant2004/leetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/krishnakant2004/leetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3017-number-of-beautiful-integers-in-the-range](https://github.com/krishnakant2004/leetCode/tree/master/3017-number-of-beautiful-integers-in-the-range) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/krishnakant2004/leetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
