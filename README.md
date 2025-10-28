@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/krishnakant2004/leetCode/tree/master/0010-regular-expression-matching) |
 | [0140-word-break-ii](https://github.com/krishnakant2004/leetCode/tree/master/0140-word-break-ii) |
+| [0472-concatenated-words](https://github.com/krishnakant2004/leetCode/tree/master/0472-concatenated-words) |
 | [0763-special-binary-string](https://github.com/krishnakant2004/leetCode/tree/master/0763-special-binary-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/krishnakant2004/leetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/krishnakant2004/leetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/krishnakant2004/leetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0403-frog-jump](https://github.com/krishnakant2004/leetCode/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/krishnakant2004/leetCode/tree/master/0410-split-array-largest-sum) |
+| [0472-concatenated-words](https://github.com/krishnakant2004/leetCode/tree/master/0472-concatenated-words) |
 | [0611-valid-triangle-number](https://github.com/krishnakant2004/leetCode/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/krishnakant2004/leetCode/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/krishnakant2004/leetCode/tree/master/0830-largest-triangle-area) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0472-concatenated-words](https://github.com/krishnakant2004/leetCode/tree/master/0472-concatenated-words) |
 | [0611-valid-triangle-number](https://github.com/krishnakant2004/leetCode/tree/master/0611-valid-triangle-number) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/krishnakant2004/leetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/krishnakant2004/leetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/krishnakant2004/leetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0403-frog-jump](https://github.com/krishnakant2004/leetCode/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/krishnakant2004/leetCode/tree/master/0410-split-array-largest-sum) |
+| [0472-concatenated-words](https://github.com/krishnakant2004/leetCode/tree/master/0472-concatenated-words) |
 | [1013-fibonacci-number](https://github.com/krishnakant2004/leetCode/tree/master/1013-fibonacci-number) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/krishnakant2004/leetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/krishnakant2004/leetCode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
@@ -157,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0472-concatenated-words](https://github.com/krishnakant2004/leetCode/tree/master/0472-concatenated-words) |
 | [0794-swim-in-rising-water](https://github.com/krishnakant2004/leetCode/tree/master/0794-swim-in-rising-water) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/krishnakant2004/leetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Breadth-First Search
@@ -218,4 +223,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/krishnakant2004/leetCode/tree/master/0140-word-break-ii) |
+| [0472-concatenated-words](https://github.com/krishnakant2004/leetCode/tree/master/0472-concatenated-words) |
 <!---LeetCode Topics End-->
