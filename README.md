@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/krishnakant2004/leetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3017-number-of-beautiful-integers-in-the-range](https://github.com/krishnakant2004/leetCode/tree/master/3017-number-of-beautiful-integers-in-the-range) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/krishnakant2004/leetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/krishnakant2004/leetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1418-fair-distribution-of-cookies](https://github.com/krishnakant2004/leetCode/tree/master/1418-fair-distribution-of-cookies) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/krishnakant2004/leetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Bitmask
 |  |
 | ------- |
