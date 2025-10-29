@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/krishnakant2004/leetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/krishnakant2004/leetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/krishnakant2004/leetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/krishnakant2004/leetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/krishnakant2004/leetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3748-sort-matrix-by-diagonals](https://github.com/krishnakant2004/leetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/krishnakant2004/leetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/krishnakant2004/leetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/krishnakant2004/leetCode/tree/master/2169-simple-bank-system) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/krishnakant2004/leetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/krishnakant2004/leetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/krishnakant2004/leetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Combinatorics
 |  |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/krishnakant2004/leetCode/tree/master/0410-split-array-largest-sum) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/krishnakant2004/leetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/krishnakant2004/leetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/krishnakant2004/leetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Backtracking
 |  |
