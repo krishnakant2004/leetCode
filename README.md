@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/krishnakant2004/leetCode/tree/master/0070-climbing-stairs) |
 | [0233-number-of-digit-one](https://github.com/krishnakant2004/leetCode/tree/master/0233-number-of-digit-one) |
 | [0371-sum-of-two-integers](https://github.com/krishnakant2004/leetCode/tree/master/0371-sum-of-two-integers) |
 | [0830-largest-triangle-area](https://github.com/krishnakant2004/leetCode/tree/master/0830-largest-triangle-area) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/krishnakant2004/leetCode/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/krishnakant2004/leetCode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/krishnakant2004/leetCode/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/krishnakant2004/leetCode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/krishnakant2004/leetCode/tree/master/0120-triangle) |
 | [0140-word-break-ii](https://github.com/krishnakant2004/leetCode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/krishnakant2004/leetCode/tree/master/0152-maximum-product-subarray) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/krishnakant2004/leetCode/tree/master/0070-climbing-stairs) |
 | [0140-word-break-ii](https://github.com/krishnakant2004/leetCode/tree/master/0140-word-break-ii) |
 | [1013-fibonacci-number](https://github.com/krishnakant2004/leetCode/tree/master/1013-fibonacci-number) |
 ## Two Pointers
