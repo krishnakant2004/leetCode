@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/krishnakant2004/leetCode/tree/master/0174-dungeon-game) |
 | [0233-number-of-digit-one](https://github.com/krishnakant2004/leetCode/tree/master/0233-number-of-digit-one) |
 | [0300-longest-increasing-subsequence](https://github.com/krishnakant2004/leetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0338-counting-bits](https://github.com/krishnakant2004/leetCode/tree/master/0338-counting-bits) |
 | [0403-frog-jump](https://github.com/krishnakant2004/leetCode/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/krishnakant2004/leetCode/tree/master/0410-split-array-largest-sum) |
 | [0472-concatenated-words](https://github.com/krishnakant2004/leetCode/tree/master/0472-concatenated-words) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/krishnakant2004/leetCode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/krishnakant2004/leetCode/tree/master/0371-sum-of-two-integers) |
 | [1418-fair-distribution-of-cookies](https://github.com/krishnakant2004/leetCode/tree/master/1418-fair-distribution-of-cookies) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/krishnakant2004/leetCode/tree/master/3676-smallest-number-with-all-set-bits) |
