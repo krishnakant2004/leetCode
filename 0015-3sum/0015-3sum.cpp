@@ -1,54 +1,33 @@
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
-        unordered_map<int,int> store;
-        unordered_set<int> dup;
-        set<vector<int>> add;
+        sort(nums.begin(),nums.end());
+        vector<vector<int>> res;
+        int n = nums.size();
 
-        for(int i=0;i<nums.size();i++){
-            store[nums[i]]=i;
-        }
-        set<vector<int>> arr=help(nums,store,add,dup,0);
-        vector<vector<int>> ret_vec;
-        for(auto it:arr){
-            ret_vec.push_back(it);
-        }
-        
-        return ret_vec;
-    }
-    
-    set<vector<int>> help(vector<int>& nums,unordered_map<int,int> &store,set<vector<int>> &add,unordered_set<int> &dup,int i){
-        if(i==nums.size()){
-            return add; 
-        }
-
-        if(dup.find(nums[i])==dup.end()){
-            vector<vector<int>> arr=find_2sum(nums,store,i,-nums[i]);
-            if(arr.size()){
-                for(auto val:arr){
-                    add.insert(val);
-                }   
+        for(int i = 0 ;i<n;i++){
+            while(i>0 && i<n && nums[i] == nums[i-1]) i++;
+            
+            int l = i+1;
+            int r = n-1;
+            while(l < r){
+                int sum = nums[i]+nums[l]+nums[r];
+                if(sum == 0) {
+                    res.push_back({nums[i] , nums[l], nums[r]});
+                    l++;
+                    r--;
+                    while( l < n && nums[l-1] == nums[l]) l++;
+                    while(r >= 0 && nums[r] == nums[r+1]) r--;
+                }
+                else if(sum < 0){
+                    l++;
+                    while(l <n && nums[l-1] == nums[l]) l++;
+                }else{
+                    r--;
+                    while(r>=0 && nums[r] == nums[r+1]) r--;
+                }
             }
-            dup.insert(nums[i]);
         }
-        
-        return help(nums,store,add,dup,i+1);
-
+        return res;
     }
-
-    vector<vector<int>> find_2sum(vector<int> &nums,unordered_map<int,int> &store,int k,int target){
-
-        vector<vector<int>> st={};
-        for(int i=0;i<nums.size();i++){
-            int complement=target-nums[i];
-            if(store.count(complement) && i!=k && store[complement]!=i && k!=store[complement]){
-                vector<int> vec={nums[i],complement,nums[k]};
-                sort(vec.begin(),vec.end());
-                st.push_back(vec);
-            }
-
-        }
-        return st;
-    }
-    
 };
