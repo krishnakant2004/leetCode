@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/krishnakant2004/leetCode/tree/master/0233-number-of-digit-one) |
+| [0371-sum-of-two-integers](https://github.com/krishnakant2004/leetCode/tree/master/0371-sum-of-two-integers) |
 | [0830-largest-triangle-area](https://github.com/krishnakant2004/leetCode/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/krishnakant2004/leetCode/tree/master/1013-fibonacci-number) |
 | [1642-water-bottles](https://github.com/krishnakant2004/leetCode/tree/master/1642-water-bottles) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/krishnakant2004/leetCode/tree/master/0371-sum-of-two-integers) |
 | [1418-fair-distribution-of-cookies](https://github.com/krishnakant2004/leetCode/tree/master/1418-fair-distribution-of-cookies) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/krishnakant2004/leetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Bitmask
