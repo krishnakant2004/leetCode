@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/krishnakant2004/leetCode/tree/master/0010-regular-expression-matching) |
+| [0139-word-break](https://github.com/krishnakant2004/leetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/krishnakant2004/leetCode/tree/master/0140-word-break-ii) |
 | [0472-concatenated-words](https://github.com/krishnakant2004/leetCode/tree/master/0472-concatenated-words) |
 | [0763-special-binary-string](https://github.com/krishnakant2004/leetCode/tree/master/0763-special-binary-string) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/krishnakant2004/leetCode/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/krishnakant2004/leetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0120-triangle](https://github.com/krishnakant2004/leetCode/tree/master/0120-triangle) |
+| [0139-word-break](https://github.com/krishnakant2004/leetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/krishnakant2004/leetCode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/krishnakant2004/leetCode/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/krishnakant2004/leetCode/tree/master/0174-dungeon-game) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/krishnakant2004/leetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/krishnakant2004/leetCode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/krishnakant2004/leetCode/tree/master/0120-triangle) |
+| [0139-word-break](https://github.com/krishnakant2004/leetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/krishnakant2004/leetCode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/krishnakant2004/leetCode/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/krishnakant2004/leetCode/tree/master/0174-dungeon-game) |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/krishnakant2004/leetCode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/krishnakant2004/leetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/krishnakant2004/leetCode/tree/master/0140-word-break-ii) |
 | [1013-fibonacci-number](https://github.com/krishnakant2004/leetCode/tree/master/1013-fibonacci-number) |
 ## Two Pointers
@@ -226,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/krishnakant2004/leetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/krishnakant2004/leetCode/tree/master/0140-word-break-ii) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/krishnakant2004/leetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/krishnakant2004/leetCode/tree/master/1612-avoid-flood-in-the-city) |
@@ -277,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/krishnakant2004/leetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/krishnakant2004/leetCode/tree/master/0140-word-break-ii) |
 | [0472-concatenated-words](https://github.com/krishnakant2004/leetCode/tree/master/0472-concatenated-words) |
 ## Linked List
