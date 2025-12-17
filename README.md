@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/krishnakant2004/leetCode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/krishnakant2004/leetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/krishnakant2004/leetCode/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/krishnakant2004/leetCode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/krishnakant2004/leetCode/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/krishnakant2004/leetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/krishnakant2004/leetCode/tree/master/0039-combination-sum) |
 | [0140-word-break-ii](https://github.com/krishnakant2004/leetCode/tree/master/0140-word-break-ii) |
 | [1418-fair-distribution-of-cookies](https://github.com/krishnakant2004/leetCode/tree/master/1418-fair-distribution-of-cookies) |
 ## Bit Manipulation
