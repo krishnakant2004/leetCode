@@ -1,6 +1,7 @@
 class Solution {
 public:
     int lengthOfLIS(vector<int>& nums) {
+        return bottom_up(nums);
         return LIS(nums);
         // unordered_map<string,int> map;
         // return solve(nums,map,INT_MAX,nums.size());
@@ -37,5 +38,23 @@ public:
         }
         m = max(m , solve(nums,map,prev,n-1));
         return map[str] = m;
+    }
+
+    int bottom_up(vector<int>& nums){
+        int n = nums.size();
+        vector<int> dp(n,1);
+
+        for(int i = 0;i<n;i++){
+            for(int j = 0;j<i;j++){
+                if(nums[j] < nums[i]){
+                    dp[i] = max(dp[i] , 1 + dp[j]);
+                }
+            }
+        }
+        int maxV = INT_MIN;
+        for(int i = 0;i<n;i++){
+            maxV = max(maxV , dp[i]);
+        }
+        return maxV;
     }
 };
