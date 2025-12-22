@@ -1,6 +1,8 @@
 class Solution {
 public:
     int longestValidParentheses(string s) {
+        return lvp(s);
+
         int n = s.size();
         vector<int> dp(n+1,0);
 
@@ -19,5 +21,55 @@ public:
             i++;
         }
         return maxV;
+    }
+
+
+     int lvp(string s) {
+        int n = s.size();
+
+        int longestPar = 0;
+        int close = 0;
+        int open = 0;
+
+        int left = 0;
+        int right = 0;
+        while(right < n){
+            if(s[right] == '('){
+                open++;
+            }else{
+                close++;
+            }
+            if(open == close) longestPar = max(longestPar , right-left+1);
+            if(close > open){
+                right++;
+                left = right;
+                open = 0;
+                close = 0;
+                continue;
+            }
+            right++;
+        }
+       
+        left = n-1;
+        right = n-1;
+        open = 0;
+        close = 0;
+        while(left >= 0){
+            if(s[left] == ')'){
+                close++;
+            }else{
+                open++;
+            }
+            if(open == close) longestPar = max(longestPar , right-left+1);
+            if(open > close){
+                open = 0;
+                close = 0;
+                left--;
+                right = left;
+                continue;
+            }
+            left--;
+        }
+       return longestPar;
     }
 };
