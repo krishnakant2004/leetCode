@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/krishnakant2004/leetCode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/krishnakant2004/leetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/krishnakant2004/leetCode/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/krishnakant2004/leetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/krishnakant2004/leetCode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/krishnakant2004/leetCode/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/krishnakant2004/leetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/krishnakant2004/leetCode/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/krishnakant2004/leetCode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/krishnakant2004/leetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/krishnakant2004/leetCode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/krishnakant2004/leetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/krishnakant2004/leetCode/tree/master/0070-climbing-stairs) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/krishnakant2004/leetCode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/krishnakant2004/leetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/krishnakant2004/leetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/krishnakant2004/leetCode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/krishnakant2004/leetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/krishnakant2004/leetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/krishnakant2004/leetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/krishnakant2004/leetCode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/krishnakant2004/leetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -184,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/krishnakant2004/leetCode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/krishnakant2004/leetCode/tree/master/0042-trapping-rain-water) |
 | [0611-valid-triangle-number](https://github.com/krishnakant2004/leetCode/tree/master/0611-valid-triangle-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/krishnakant2004/leetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/krishnakant2004/leetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
