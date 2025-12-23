@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/krishnakant2004/leetCode/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/krishnakant2004/leetCode/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/krishnakant2004/leetCode/tree/master/0044-wildcard-matching) |
 | [0139-word-break](https://github.com/krishnakant2004/leetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/krishnakant2004/leetCode/tree/master/0140-word-break-ii) |
 | [0472-concatenated-words](https://github.com/krishnakant2004/leetCode/tree/master/0472-concatenated-words) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/krishnakant2004/leetCode/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/krishnakant2004/leetCode/tree/master/0044-wildcard-matching) |
 | [0233-number-of-digit-one](https://github.com/krishnakant2004/leetCode/tree/master/0233-number-of-digit-one) |
 | [0763-special-binary-string](https://github.com/krishnakant2004/leetCode/tree/master/0763-special-binary-string) |
 | [1013-fibonacci-number](https://github.com/krishnakant2004/leetCode/tree/master/1013-fibonacci-number) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/krishnakant2004/leetCode/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/krishnakant2004/leetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/krishnakant2004/leetCode/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/krishnakant2004/leetCode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/krishnakant2004/leetCode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/krishnakant2004/leetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/krishnakant2004/leetCode/tree/master/0070-climbing-stairs) |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/krishnakant2004/leetCode/tree/master/0044-wildcard-matching) |
 | [0410-split-array-largest-sum](https://github.com/krishnakant2004/leetCode/tree/master/0410-split-array-largest-sum) |
 | [0611-valid-triangle-number](https://github.com/krishnakant2004/leetCode/tree/master/0611-valid-triangle-number) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/krishnakant2004/leetCode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
