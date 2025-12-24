@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/krishnakant2004/leetCode/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/krishnakant2004/leetCode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/krishnakant2004/leetCode/tree/master/0044-wildcard-matching) |
+| [0087-scramble-string](https://github.com/krishnakant2004/leetCode/tree/master/0087-scramble-string) |
 | [0139-word-break](https://github.com/krishnakant2004/leetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/krishnakant2004/leetCode/tree/master/0140-word-break-ii) |
 | [0472-concatenated-words](https://github.com/krishnakant2004/leetCode/tree/master/0472-concatenated-words) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/krishnakant2004/leetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/krishnakant2004/leetCode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/krishnakant2004/leetCode/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/krishnakant2004/leetCode/tree/master/0087-scramble-string) |
 | [0120-triangle](https://github.com/krishnakant2004/leetCode/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/krishnakant2004/leetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/krishnakant2004/leetCode/tree/master/0140-word-break-ii) |
