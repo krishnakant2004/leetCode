@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/krishnakant2004/leetCode/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/krishnakant2004/leetCode/tree/master/0174-dungeon-game) |
 | [0300-longest-increasing-subsequence](https://github.com/krishnakant2004/leetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/krishnakant2004/leetCode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/krishnakant2004/leetCode/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/krishnakant2004/leetCode/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/krishnakant2004/leetCode/tree/master/0410-split-array-largest-sum) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/krishnakant2004/leetCode/tree/master/0174-dungeon-game) |
 | [0233-number-of-digit-one](https://github.com/krishnakant2004/leetCode/tree/master/0233-number-of-digit-one) |
 | [0300-longest-increasing-subsequence](https://github.com/krishnakant2004/leetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/krishnakant2004/leetCode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/krishnakant2004/leetCode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/krishnakant2004/leetCode/tree/master/0338-counting-bits) |
 | [0403-frog-jump](https://github.com/krishnakant2004/leetCode/tree/master/0403-frog-jump) |
