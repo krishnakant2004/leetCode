@@ -1,7 +1,7 @@
 class Solution {
 public:
     int splitArray(vector<int>& nums, int k) {
-        return spa(nums,k);
+        // return spa(nums,k);
         return using_binary_division(nums,k);
         //
         int n = nums.size();
