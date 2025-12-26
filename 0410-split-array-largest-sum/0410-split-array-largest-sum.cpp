@@ -1,6 +1,7 @@
 class Solution {
 public:
     int splitArray(vector<int>& nums, int k) {
+        return spa(nums,k);
         return using_binary_division(nums,k);
         //
         int n = nums.size();
@@ -73,6 +74,32 @@ public:
             }
         }
         return true;
+    }
+
+    int spa(vector<int>& nums, int k){
+         int n = nums.size();
+        if(k > n) return -1; 
+        vector<vector<int>> dp(n+1,vector<int>(k+1,0));
+        //prefix sum
+        int sum = 0;
+
+        for(int i = 1;i<=n;i++){
+            sum += nums[i-1];
+            dp[i][1] = sum; 
+        }
+        if(k == 1) return sum;
+
+        for(int div = 2; div<=k; div++){
+            for(int i = div; i<=n; i++){
+                int minV = INT_MAX;
+                for(int j = div-1; j<i; j++){
+                    int kth = dp[i][1] - dp[j][1];
+                    minV = min(minV , max(dp[j][div-1] , kth));
+                }
+                dp[i][div] = minV;
+            }
+        }
+        return dp[n][k];
     }
 
 };
