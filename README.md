@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/krishnakant2004/leetCode/tree/master/0354-russian-doll-envelopes) |
 | [0403-frog-jump](https://github.com/krishnakant2004/leetCode/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/krishnakant2004/leetCode/tree/master/0410-split-array-largest-sum) |
+| [0446-arithmetic-slices-ii-subsequence](https://github.com/krishnakant2004/leetCode/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0472-concatenated-words](https://github.com/krishnakant2004/leetCode/tree/master/0472-concatenated-words) |
 | [0518-coin-change-ii](https://github.com/krishnakant2004/leetCode/tree/master/0518-coin-change-ii) |
 | [0611-valid-triangle-number](https://github.com/krishnakant2004/leetCode/tree/master/0611-valid-triangle-number) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/krishnakant2004/leetCode/tree/master/0354-russian-doll-envelopes) |
 | [0403-frog-jump](https://github.com/krishnakant2004/leetCode/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/krishnakant2004/leetCode/tree/master/0410-split-array-largest-sum) |
+| [0446-arithmetic-slices-ii-subsequence](https://github.com/krishnakant2004/leetCode/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0472-concatenated-words](https://github.com/krishnakant2004/leetCode/tree/master/0472-concatenated-words) |
 | [0518-coin-change-ii](https://github.com/krishnakant2004/leetCode/tree/master/0518-coin-change-ii) |
 | [1013-fibonacci-number](https://github.com/krishnakant2004/leetCode/tree/master/1013-fibonacci-number) |
