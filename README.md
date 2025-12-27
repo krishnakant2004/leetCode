@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/krishnakant2004/leetCode/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/krishnakant2004/leetCode/tree/master/0044-wildcard-matching) |
+| [0231-power-of-two](https://github.com/krishnakant2004/leetCode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/krishnakant2004/leetCode/tree/master/0233-number-of-digit-one) |
 | [0763-special-binary-string](https://github.com/krishnakant2004/leetCode/tree/master/0763-special-binary-string) |
 | [1013-fibonacci-number](https://github.com/krishnakant2004/leetCode/tree/master/1013-fibonacci-number) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/krishnakant2004/leetCode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/krishnakant2004/leetCode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/krishnakant2004/leetCode/tree/master/0233-number-of-digit-one) |
 | [0371-sum-of-two-integers](https://github.com/krishnakant2004/leetCode/tree/master/0371-sum-of-two-integers) |
 | [0830-largest-triangle-area](https://github.com/krishnakant2004/leetCode/tree/master/0830-largest-triangle-area) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/krishnakant2004/leetCode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/krishnakant2004/leetCode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/krishnakant2004/leetCode/tree/master/0371-sum-of-two-integers) |
 | [1418-fair-distribution-of-cookies](https://github.com/krishnakant2004/leetCode/tree/master/1418-fair-distribution-of-cookies) |
