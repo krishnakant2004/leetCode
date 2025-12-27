@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/krishnakant2004/leetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/krishnakant2004/leetCode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/krishnakant2004/leetCode/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/krishnakant2004/leetCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/krishnakant2004/leetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/krishnakant2004/leetCode/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/krishnakant2004/leetCode/tree/master/0120-triangle) |
@@ -295,11 +296,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/krishnakant2004/leetCode/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/krishnakant2004/leetCode/tree/master/0078-subsets) |
 | [0140-word-break-ii](https://github.com/krishnakant2004/leetCode/tree/master/0140-word-break-ii) |
 | [1418-fair-distribution-of-cookies](https://github.com/krishnakant2004/leetCode/tree/master/1418-fair-distribution-of-cookies) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/krishnakant2004/leetCode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/krishnakant2004/leetCode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/krishnakant2004/leetCode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/krishnakant2004/leetCode/tree/master/0371-sum-of-two-integers) |
