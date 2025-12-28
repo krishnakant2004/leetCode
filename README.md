@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/krishnakant2004/leetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/krishnakant2004/leetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/krishnakant2004/leetCode/tree/master/0140-word-break-ii) |
+| [0466-count-the-repetitions](https://github.com/krishnakant2004/leetCode/tree/master/0466-count-the-repetitions) |
 | [0472-concatenated-words](https://github.com/krishnakant2004/leetCode/tree/master/0472-concatenated-words) |
 | [0763-special-binary-string](https://github.com/krishnakant2004/leetCode/tree/master/0763-special-binary-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/krishnakant2004/leetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/krishnakant2004/leetCode/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/krishnakant2004/leetCode/tree/master/0410-split-array-largest-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/krishnakant2004/leetCode/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0466-count-the-repetitions](https://github.com/krishnakant2004/leetCode/tree/master/0466-count-the-repetitions) |
 | [0472-concatenated-words](https://github.com/krishnakant2004/leetCode/tree/master/0472-concatenated-words) |
 | [0518-coin-change-ii](https://github.com/krishnakant2004/leetCode/tree/master/0518-coin-change-ii) |
 | [1013-fibonacci-number](https://github.com/krishnakant2004/leetCode/tree/master/1013-fibonacci-number) |
