@@ -9,11 +9,10 @@ public:
         int r = 0;
         while(r < n){
             sum += nums[r];
-            if(sum >= target) minsize = min(minsize , r-l+1);
             while(sum >= target && l <= r){
+                if(sum >= target) minsize = min(minsize , r-l+1);
                 sum -= nums[l];
                 l++;
-                if(sum >= target) minsize = min(minsize , r-l+1);
             }
             r++;
         }
