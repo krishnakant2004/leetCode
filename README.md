@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/krishnakant2004/leetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1418-fair-distribution-of-cookies](https://github.com/krishnakant2004/leetCode/tree/master/1418-fair-distribution-of-cookies) |
 | [1480-running-sum-of-1d-array](https://github.com/krishnakant2004/leetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1590-make-sum-divisible-by-p](https://github.com/krishnakant2004/leetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/krishnakant2004/leetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/krishnakant2004/leetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/krishnakant2004/leetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/krishnakant2004/leetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/krishnakant2004/leetCode/tree/master/0140-word-break-ii) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/krishnakant2004/leetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1590-make-sum-divisible-by-p](https://github.com/krishnakant2004/leetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/krishnakant2004/leetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [2169-simple-bank-system](https://github.com/krishnakant2004/leetCode/tree/master/2169-simple-bank-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/krishnakant2004/leetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/krishnakant2004/leetCode/tree/master/0410-split-array-largest-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/krishnakant2004/leetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1590-make-sum-divisible-by-p](https://github.com/krishnakant2004/leetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/krishnakant2004/leetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/krishnakant2004/leetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/krishnakant2004/leetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
