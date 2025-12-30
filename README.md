@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/krishnakant2004/leetCode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/krishnakant2004/leetCode/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/krishnakant2004/leetCode/tree/master/0174-dungeon-game) |
+| [0209-minimum-size-subarray-sum](https://github.com/krishnakant2004/leetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/krishnakant2004/leetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/krishnakant2004/leetCode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/krishnakant2004/leetCode/tree/master/0322-coin-change) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/krishnakant2004/leetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/krishnakant2004/leetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/krishnakant2004/leetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/krishnakant2004/leetCode/tree/master/0354-russian-doll-envelopes) |
 | [0410-split-array-largest-sum](https://github.com/krishnakant2004/leetCode/tree/master/0410-split-array-largest-sum) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/krishnakant2004/leetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/krishnakant2004/leetCode/tree/master/0410-split-array-largest-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/krishnakant2004/leetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/krishnakant2004/leetCode/tree/master/1590-make-sum-divisible-by-p) |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/krishnakant2004/leetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/krishnakant2004/leetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Graph
 |  |
