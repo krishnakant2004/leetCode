@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/krishnakant2004/leetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/krishnakant2004/leetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/krishnakant2004/leetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/krishnakant2004/leetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/krishnakant2004/leetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/krishnakant2004/leetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/krishnakant2004/leetCode/tree/master/2169-simple-bank-system) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/krishnakant2004/leetCode/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/krishnakant2004/leetCode/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/krishnakant2004/leetCode/tree/master/1612-avoid-flood-in-the-city) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/krishnakant2004/leetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/krishnakant2004/leetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/krishnakant2004/leetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Memoization
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/krishnakant2004/leetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1590-make-sum-divisible-by-p](https://github.com/krishnakant2004/leetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/krishnakant2004/leetCode/tree/master/1612-avoid-flood-in-the-city) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/krishnakant2004/leetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2169-simple-bank-system](https://github.com/krishnakant2004/leetCode/tree/master/2169-simple-bank-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/krishnakant2004/leetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/krishnakant2004/leetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/krishnakant2004/leetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/krishnakant2004/leetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/krishnakant2004/leetCode/tree/master/1590-make-sum-divisible-by-p) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/krishnakant2004/leetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/krishnakant2004/leetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/krishnakant2004/leetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/krishnakant2004/leetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -355,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/krishnakant2004/leetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/krishnakant2004/leetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/krishnakant2004/leetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Graph
 |  |
