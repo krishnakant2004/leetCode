@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/krishnakant2004/leetCode/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/krishnakant2004/leetCode/tree/master/0525-contiguous-array) |
 | [0611-valid-triangle-number](https://github.com/krishnakant2004/leetCode/tree/master/0611-valid-triangle-number) |
+| [0713-subarray-product-less-than-k](https://github.com/krishnakant2004/leetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0794-swim-in-rising-water](https://github.com/krishnakant2004/leetCode/tree/master/0794-swim-in-rising-water) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/krishnakant2004/leetCode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0830-largest-triangle-area](https://github.com/krishnakant2004/leetCode/tree/master/0830-largest-triangle-area) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/krishnakant2004/leetCode/tree/master/0354-russian-doll-envelopes) |
 | [0410-split-array-largest-sum](https://github.com/krishnakant2004/leetCode/tree/master/0410-split-array-largest-sum) |
 | [0611-valid-triangle-number](https://github.com/krishnakant2004/leetCode/tree/master/0611-valid-triangle-number) |
+| [0713-subarray-product-less-than-k](https://github.com/krishnakant2004/leetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0794-swim-in-rising-water](https://github.com/krishnakant2004/leetCode/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/krishnakant2004/leetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/krishnakant2004/leetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/krishnakant2004/leetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/krishnakant2004/leetCode/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/krishnakant2004/leetCode/tree/master/0525-contiguous-array) |
+| [0713-subarray-product-less-than-k](https://github.com/krishnakant2004/leetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/krishnakant2004/leetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/krishnakant2004/leetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/krishnakant2004/leetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/krishnakant2004/leetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/krishnakant2004/leetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/krishnakant2004/leetCode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1248-count-number-of-nice-subarrays](https://github.com/krishnakant2004/leetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/krishnakant2004/leetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
