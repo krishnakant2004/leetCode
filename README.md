@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/krishnakant2004/leetCode/tree/master/0525-contiguous-array) |
 | [0611-valid-triangle-number](https://github.com/krishnakant2004/leetCode/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/krishnakant2004/leetCode/tree/master/0794-swim-in-rising-water) |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/krishnakant2004/leetCode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0830-largest-triangle-area](https://github.com/krishnakant2004/leetCode/tree/master/0830-largest-triangle-area) |
 | [0907-sum-of-subarray-minimums](https://github.com/krishnakant2004/leetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/krishnakant2004/leetCode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/krishnakant2004/leetCode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/krishnakant2004/leetCode/tree/master/0042-trapping-rain-water) |
 | [0611-valid-triangle-number](https://github.com/krishnakant2004/leetCode/tree/master/0611-valid-triangle-number) |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/krishnakant2004/leetCode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/krishnakant2004/leetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/krishnakant2004/leetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Geometry
