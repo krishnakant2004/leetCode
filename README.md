@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/krishnakant2004/leetCode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0830-largest-triangle-area](https://github.com/krishnakant2004/leetCode/tree/master/0830-largest-triangle-area) |
 | [0907-sum-of-subarray-minimums](https://github.com/krishnakant2004/leetCode/tree/master/0907-sum-of-subarray-minimums) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/krishnakant2004/leetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/krishnakant2004/leetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/krishnakant2004/leetCode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/krishnakant2004/leetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/krishnakant2004/leetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/krishnakant2004/leetCode/tree/master/0140-word-break-ii) |
 | [0525-contiguous-array](https://github.com/krishnakant2004/leetCode/tree/master/0525-contiguous-array) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/krishnakant2004/leetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/krishnakant2004/leetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/krishnakant2004/leetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/krishnakant2004/leetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
