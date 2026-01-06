@@ -9,8 +9,10 @@ public:
     }
 
     int minCut(string s) {
-        int n = s.size();
+        return minCuts(s);
 
+
+        int n = s.size();
         vector<vector<bool>> palDP(n,vector<bool>(n,0));
         for(int i = 0;i<n;i++) palDP[i][i] = 1;
 
@@ -36,5 +38,22 @@ public:
             }
         }
         return dp[n];
+    }
+
+    int minCuts(string s){
+        int n = s.size();
+        vector<int> dp(n+1,INT_MAX);
+        dp[0] = 0;
+        dp[1] = 0;
+
+        for(int i = 1;i<n;i++){
+            for(int j = 0;j<=i;j++){
+                if(isPalindrom(s,j,i)){
+                    dp[i+1] = min(dp[i+1] , j == 0 ? 0 : dp[j] + 1 );
+                }
+            }
+        }
+        return dp[n];
+
     }
 };
